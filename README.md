@@ -43,8 +43,8 @@ of "go_fyne_chess_demo.exe" and so on depending on your local operating system.
 
 ## Android version
 
-<img src = "img/screenshot_android.png" style="max-width: 488px" />
+<img src = "img/screenshot_android.png" width="200px" />
 
 ## Desktop version
 
-<img src = "img/screenshot.png" style="max-width: 488px" />
+<img src = "img/screenshot.png" width="400px" />

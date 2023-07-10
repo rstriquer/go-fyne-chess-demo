@@ -24,7 +24,7 @@ More info on multi-platform builds can be found on https://developer.fyne.io/sta
 
 Just run the command below
 
-    $ fyne package -os android -appID com.example.rstriquer.go-fyne-chess-demo
+    $ fyne package -os android -appID com.example.rstriquer.goFyneChessDemo
 
 PS: Sometimes it will be necessary to install some dependencies. Like in my case I
 needed to install glfw to my env, them I just added `go get fyne.io/fyne/v2/internal/driver/glfw@v2.3.5`
